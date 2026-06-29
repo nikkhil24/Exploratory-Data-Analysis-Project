@@ -80,3 +80,12 @@ Flight-Price-EDA/
 * Insight: combining visual and statistical analysis provides actionable guidance for pricing strategies
 
 ---
+## 👨‍💻 Author
+
+**Nikhil Rajbhar**
+
+Final-Year B.Tech Computer Science (AI & ML)
+
+Passionate about Full-Stack Development, Machine Learning, and Generative AI.
+</div>
+
